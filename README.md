@@ -119,16 +119,17 @@ boxing_dataset.xlsx,
 boxing_Wrist.xlsx	Raw and processed versions of the sensor datasets.
 
 
-
 3. Dependent environment description
 The following are the main software and environment required for the project to run:
-	MATLAB R2022a or above, including Deep Learning Toolbox
-	Python (used for OpenPose pre-processing, only description without code)
-	OpenPose (key point extraction stage, user configuration required)
-	Windows Operating system (recommended)
+	MATLAB R2022a or above, including Deep Learning Toolbox
+	Python (used for OpenPose pre-processing, only description without code)
+ OpenPose (key point extraction stage, user configuration required)
+	Windows Operating system (recommended)
+
 4. Usage suggestions
-1. You can run the script files in the folder one by one according to the instructions in `README.md` to reproduce the modules proposed in the paper.
-2. The data processing files are annotated, and the algorithm flow can be analyzed in conjunction with the chapters of the paper.
-3. The attached sample data is only used to demonstrate the process effect. It is recommended that users collect more abundant data for extended testing.
+ You can run the script files in the folder one by one according to the instructions in `README.md` to reproduce the modules proposed in the paper.
+ The data processing files are annotated, and the algorithm flow can be analyzed in conjunction with the chapters of the paper.
+ The attached sample data is only used to demonstrate the process effect. It is recommended that users collect more abundant data for extended testing.
+
 5. Conclusion
 This project fully supports the implementation path of the interactive training intelligent system proposed in the paper, and provides open resources for subsequent research. All codes and data belong to the author and are only used for academic purposes. Please indicate the source when citing.
